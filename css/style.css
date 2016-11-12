@@ -5,6 +5,8 @@ html, body{
     overflow: hidden;
     align-content: center;
     text-align: center;
+    background-image: url(bg.gif);
+    background-position: center;
 }
 @font-face{
     font-family: BULKYPIX;
